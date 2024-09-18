@@ -1,21 +1,22 @@
-## Oi, eu sou a Michelen 🙋🏻‍♀️
+<img width=100% src=https://images.wallpapersden.com/image/download/half-moon-starry-night_a2ltbmWUmZqaraWkpJRma2VlrWtlZQ.jpg/> 
+ 
+ ## Oi, eu sou a Michelen 🙋🏻‍♀️
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+ Estudante de Análise e Desenvolvimento de Sistemas.
 
-Atualmente, focada em:
+ #### Atualmente, focada em:
 
-<div display="inline">
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" /> 
-  <img width='49' height='49' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-</div>
+ ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+ ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
-#### Você me encontra também no:
-<a href="https://www.linkedin.com/in/michelen-medeiros">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-          
-          
-          
-          
-          
+
+ <div align="right"> 
+   <a href="https://www.linkedin.com/in/michelen-medeiros">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+   <p></p>
+ </div>
+ </div>
+   <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo2OHFyeTgxZWoycTQwM2JwbmQ3c3ZpcG11eDcxOGwwdnVkcjBoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
+ </div>
