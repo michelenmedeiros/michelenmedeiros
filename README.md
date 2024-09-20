@@ -5,7 +5,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas.
  
 <div align="right"> 
-   <a href="https://www.linkedin.com/in/michelen-medeiros">
+   <a href="https://www.linkedin.com/in/michelen-medeiros" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5">
    </a>
 </div>
