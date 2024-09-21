@@ -1,15 +1,14 @@
 <img width=100% src=https://images.wallpapersden.com/image/download/half-moon-starry-night_a2ltbmWUmZqaraWkpJRma2VlrWtlZQ.jpg/> 
 
-## Oi, eu sou a Michelen 🙋🏻‍♀️
+# Oi, eu sou a Michelen 🙋🏻‍♀️
 
-Estudante de Análise e Desenvolvimento de Sistemas.
- 
+#### Apaixonada por tecnologia e em constante aprendizado. Estou cursando Análise e Desenvolvimento de Sistemas e me dedicando intensamente ao desenvolvimento web. 
 <div align="right"> 
    <a href="https://www.linkedin.com/in/michelen-medeiros">
       <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5">
    </a>
 </div>
- 
+
 #### Atualmente, focada em:
 
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)
