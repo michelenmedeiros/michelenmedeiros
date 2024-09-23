@@ -19,4 +19,5 @@
    <img align="right" height="130" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGo2OHFyeTgxZWoycTQwM2JwbmQ3c3ZpcG11eDcxOGwwdnVkcjBoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp">
 </div>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=michelenmedeiros&layout=compact&bg_color=0D1117&border_color=f279df&title_color=f279df&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelenmedeiros&layout=compact&theme=omni&show_icons=true)](https://github.com/michelenmedeiros/github-readme-stats)
+
